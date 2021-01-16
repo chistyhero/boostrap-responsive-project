@@ -1,0 +1,58 @@
+.shoe-card{
+    border: 0; 
+}
+.nav-custom-part{
+    background-color: cornsilk;
+}
+.first-section{
+    margin-top:0px;
+    margin-left: px;
+    margin-right: px;
+    background-color:cornsilk;
+    height: 400px;
+}
+.header-image-size img{
+    width: 40%;
+}
+.top-first-flex{  
+}
+@media (max-width:768px){
+    .top-first-flex{
+        grid-template-columns: repeat(1, 1fr);
+    }
+.imagebg{
+    background-color: beige;
+    border-radius: 6px;
+}
+.last-image-part img{
+    width: 5%;
+}
+.shoe-card-footer{
+    background-color: white;
+    border: 0;
+}
+.categories img{
+    width: 100px;
+}
+.shoe-slide .carousel-item{
+    background-color:#fceae8;
+    border-radius: 1em;
+}
+.flex-shoe{
+    display: flex;
+    align-items: center; 
+    margin-left: 50px;
+    grid-row-gap: 30px;
+    
+}
+.h2class{
+    margin-right: 40px;
+}
+
+.last-part-icon img{
+     height: 30px;   
+     
+}
+.last-icon-section{
+    margin-top: 40px;
+}
